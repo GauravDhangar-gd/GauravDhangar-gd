@@ -4,7 +4,6 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on **AI-based Defect Classification (DeepWafer)**
 - 🌱 Learning **Machine Learning & Backend Development (Node.js)**
 - 👯 Looking to collaborate on **AI/ML & Web Development Projects**
 - 🤝 Seeking help with **scalable backend & AI deployment**
@@ -26,18 +25,55 @@
 ---
 
 ## 🛠️ Tech Stack
-### 💻 Languages
+
+### 💻 Programming Languages
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-
-### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-
-### 🤖 AI/ML
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Machine Learning](https://img.shields.io/badge/ML-grey?style=for-the-badge)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+
+---
+
+### 🌐 Web & App Development
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
+
+---
+
+### ⚙️ Backend & Frameworks
+![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge&logo=fastapi)
+
+---
+
+### 🗄️ Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-lightblue?style=for-the-badge&logo=sqlite)
+![Supabase](https://img.shields.io/badge/Supabase-darkgreen?style=for-the-badge&logo=supabase)
+
+---
+
+### 🤖 AI / Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-grey?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
+
+---
+
+### 🔌 Hardware & Tools
+![Arduino](https://img.shields.io/badge/Arduino-teal?style=for-the-badge&logo=arduino)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-red?style=for-the-badge&logo=raspberrypi)
+![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva)
 
 ---
 
