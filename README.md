@@ -79,16 +79,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=GauravDhangar-gd&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GauravDhangar-gd&theme=tokyonight" />
 </p>
 
 ---
 
-## 📈 Most Used Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravDhangar-gd&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -114,7 +110,7 @@
 
 ## 👀 Profile Views
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=GauravDhangar-gd&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=GauravDhangar-gd&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
 </p>
 
 ---
